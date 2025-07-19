@@ -1,4 +1,6 @@
 # ComfyUI Jopa Anime/NSFW/SFW Workflow
+<img width="1797" height="970" alt="image" src="https://github.com/user-attachments/assets/c591f237-36ec-4d05-bf0c-c8ba4eaa00f2" />
+
 ---
 
 ## 📋 Description
