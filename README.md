@@ -3,7 +3,7 @@
 
 ## 📋 Description
 
-This workflow is a flexible, production-ready pipeline for generating high-quality anime/NSFW art. Every generation step is fully parameterized and exposed for easy tweaking.
+This workflow is a flexible, production-ready pipeline for generating high-quality anime/NSFW/SFW art. Every generation step is fully parameterized and exposed for easy tweaking.
 
 ---
 
@@ -156,7 +156,7 @@ This workflow is a flexible, production-ready pipeline for generating high-quali
 * Python 3.10+
 * ComfyUI >=1.23.4
 * PyTorch (CUDA)
-* NVIDIA GPU 6+ GB (8–12+ GB for hires)
+* NVIDIA GPU 6+ GB (8–12+ GB for hires) OR CPU with 16+ GB RAM
 * 8–15 GB free space for models/LoRA
 
 ---
@@ -175,7 +175,7 @@ MIT (workflow), models/LoRA — see their own licenses.
 
 ### 📋 Описание
 
-Этот воркфлоу — мощный инструмент для создания высококачественных аниме/NSFW артов с максимальным контролем параметров. Каждый этап генерации прозрачно и гибко настраивается через виджеты.
+Этот воркфлоу — мощный инструмент для создания высококачественных аниме/NSFW/SFW артов с максимальным контролем параметров. Каждый этап генерации прозрачно и гибко настраивается через виджеты.
 
 ---
 
@@ -328,7 +328,7 @@ MIT (workflow), models/LoRA — see their own licenses.
 * Python 3.10+
 * ComfyUI >=1.23.4
 * PyTorch (с CUDA)
-* NVIDIA GPU 6+ GB (лучше 8–12+ ГБ для hires)
+* NVIDIA GPU 6+ GB (лучше 8–12+ ГБ для hires) ИЛИ ЦПУ с 16+ ГБ ОЗУ
 * Свободные 8–15 ГБ под модели/лоры
 
 ---
